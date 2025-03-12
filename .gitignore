@@ -6,4 +6,6 @@ unzipped/*
 unzipped/
 *.sql
 .idea/
+**.idea/**
 *.pyc
+__pycache__/
