@@ -5,3 +5,5 @@ venv/
 unzipped/*
 unzipped/
 *.sql
+.idea/
+*.pyc
